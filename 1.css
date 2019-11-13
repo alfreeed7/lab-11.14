@@ -1,0 +1,11 @@
+#line:hover
+{
+    stroke: red;
+   
+}
+
+div
+{
+    position: absolute;
+    left: 70%;
+}
