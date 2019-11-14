@@ -22,7 +22,7 @@ var seth1 = function(message)
 
 
 
-var screen = {width:750,height:500}
+var screen = {width:800,height:500}
 var margins={top:10,right:50,bottom:50,left:50}
 
 var setup=function(penguin)
