@@ -1,11 +1,14 @@
 #line:hover
 {
     stroke: red;
+    stroke-width:4;
    
 }
 
 div
 {
     position: absolute;
-    left: 70%;
+    left: 75%;
+    top:10%;
 }
+
